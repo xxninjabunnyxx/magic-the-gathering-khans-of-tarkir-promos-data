@@ -1,0 +1,114 @@
+---
+object: card
+id: a40a0023-127e-471d-9a22-252d20a25880
+oracle_id: f49302c5-8510-4360-841c-a59f53f87e0b
+multiverse_ids: []
+tcgplayer_id: 93380
+cardmarket_id: 269711
+name: Icy Blast
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/a40a0023-127e-471d-9a22-252d20a25880
+scryfall_uri: https://scryfall.com/card/pktk/42s/icy-blast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/4/a40a0023-127e-471d-9a22-252d20a25880.jpg?1562701641
+  normal: https://cards.scryfall.io/normal/front/a/4/a40a0023-127e-471d-9a22-252d20a25880.jpg?1562701641
+  large: https://cards.scryfall.io/large/front/a/4/a40a0023-127e-471d-9a22-252d20a25880.jpg?1562701641
+  png: https://cards.scryfall.io/png/front/a/4/a40a0023-127e-471d-9a22-252d20a25880.png?1562701641
+  art_crop: https://cards.scryfall.io/art_crop/front/a/4/a40a0023-127e-471d-9a22-252d20a25880.jpg?1562701641
+  border_crop: https://cards.scryfall.io/border_crop/front/a/4/a40a0023-127e-471d-9a22-252d20a25880.jpg?1562701641
+mana_cost: "{X}{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: |-
+  Tap X target creatures.
+  Ferocious — If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Ferocious
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 95318a25-1983-40ae-b315-140160078e3c
+set: pktk
+set_name: Khans of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/95318a25-1983-40ae-b315-140160078e3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a40a0023-127e-471d-9a22-252d20a25880/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af49302c5-8510-4360-841c-a59f53f87e0b&unique=prints
+collector_number: 42s
+digital: false
+rarity: rare
+watermark: temur
+flavor_text: '"Do not think the sand or the sun will hold back the breath of winter."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 393432d3-54fc-47e6-8ba3-5bfae0fd80ef
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 4563
+penny_rank: 8238
+prices:
+  usd: 
+  usd_foil: '1.58'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Icy+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Icy+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Icy+Blast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93380?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Icy+Blast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Icy+Blast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

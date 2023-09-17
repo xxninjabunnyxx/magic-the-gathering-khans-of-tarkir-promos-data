@@ -1,0 +1,129 @@
+---
+object: card
+id: b95749d7-5967-4e49-9de0-74e156650095
+oracle_id: aa1de5ce-ddd4-4c1f-8c52-0311f4419e7b
+multiverse_ids: []
+tcgplayer_id: 93357
+cardmarket_id: 269701
+name: Mardu Ascendancy
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/b95749d7-5967-4e49-9de0-74e156650095
+scryfall_uri: https://scryfall.com/card/pktk/185s/mardu-ascendancy?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/9/b95749d7-5967-4e49-9de0-74e156650095.jpg?1562701647
+  normal: https://cards.scryfall.io/normal/front/b/9/b95749d7-5967-4e49-9de0-74e156650095.jpg?1562701647
+  large: https://cards.scryfall.io/large/front/b/9/b95749d7-5967-4e49-9de0-74e156650095.jpg?1562701647
+  png: https://cards.scryfall.io/png/front/b/9/b95749d7-5967-4e49-9de0-74e156650095.png?1562701647
+  art_crop: https://cards.scryfall.io/art_crop/front/b/9/b95749d7-5967-4e49-9de0-74e156650095.jpg?1562701647
+  border_crop: https://cards.scryfall.io/border_crop/front/b/9/b95749d7-5967-4e49-9de0-74e156650095.jpg?1562701647
+mana_cost: "{R}{W}{B}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: |-
+  Whenever a nontoken creature you control attacks, create a 1/1 red Goblin creature token that's tapped and attacking.
+  Sacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn.
+colors:
+- B
+- R
+- W
+color_identity:
+- B
+- R
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: ed418a8b-f158-492d-a323-6265b3175292
+  component: token
+  name: Goblin
+  type_line: Token Creature — Goblin
+  uri: https://api.scryfall.com/cards/ed418a8b-f158-492d-a323-6265b3175292
+- object: related_card
+  id: b95749d7-5967-4e49-9de0-74e156650095
+  component: combo_piece
+  name: Mardu Ascendancy
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/b95749d7-5967-4e49-9de0-74e156650095
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 95318a25-1983-40ae-b315-140160078e3c
+set: pktk
+set_name: Khans of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/95318a25-1983-40ae-b315-140160078e3c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b95749d7-5967-4e49-9de0-74e156650095/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaa1de5ce-ddd4-4c1f-8c52-0311f4419e7b&unique=prints
+collector_number: 185s
+digital: false
+rarity: rare
+watermark: mardu
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Chan
+artist_ids:
+- 8062d5a9-51b6-4822-933f-fa9e9dba8416
+illustration_id: 5c0e55ef-e0ed-4e03-ab62-cd2b08fdd2cd
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 4219
+penny_rank: 6210
+prices:
+  usd: 
+  usd_foil: '7.26'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mardu+Ascendancy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mardu+Ascendancy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mardu+Ascendancy
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93357?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mardu+Ascendancy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mardu+Ascendancy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

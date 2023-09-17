@@ -1,0 +1,18 @@
+---
+object: set
+id: 95318a25-1983-40ae-b315-140160078e3c
+code: pktk
+name: Khans of Tarkir Promos
+uri: https://api.scryfall.com/sets/95318a25-1983-40ae-b315-140160078e3c
+scryfall_uri: https://scryfall.com/sets/pktk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apktk&unique=prints
+released_at: '2014-09-26'
+set_type: promo
+card_count: 56
+parent_set_code: ktk
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ktk
+block: Khans of Tarkir
+icon_svg_uri: https://svgs.scryfall.io/sets/ktk.svg?1694404800
